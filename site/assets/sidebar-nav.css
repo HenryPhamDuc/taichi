@@ -1,0 +1,28 @@
+.md-sidebar {
+  /* Ensure sidebar nav bars sit cleanly inside the sidebar */
+  position: relative;
+}
+
+.md-sidebar-nav {
+  padding: 0.5rem 0.75rem;
+  margin: 0.5rem 0;
+  background: var(--md-primary-fg-color--transparent, rgba(0,137,123,0.08));
+  border-radius: 0.25rem;
+}
+
+.md-sidebar-nav a {
+  display: inline-block;
+  margin-right: 0.75rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.md-sidebar-nav a:hover {
+  text-decoration: underline;
+}
+
+@media print {
+  .md-sidebar-nav {
+    display: none !important;
+  }
+}

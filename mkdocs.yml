@@ -1,0 +1,90 @@
+site_name: 🧘 Henry's Taichi Practice Vault
+site_description: A curated, bilingual (EN-VI) Taichi and Qigong resource library for the 50+ body — soft inside, rooted outside.
+site_author: Henry Pham Duc
+site_url: https://henryphamduc.github.io/taichi/
+repo_url: https://github.com/HenryPhamDuc/taichi
+repo_name: HenryPhamDuc/taichi
+edit_uri: edit/master/docs/
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/yin-yang
+
+extra_css:
+  - assets/floating-nav.css
+  - assets/sidebar-nav.css
+
+extra_javascript:
+  - assets/open-external-links.js
+  - assets/sidebar-nav.js
+  - assets/floating-nav.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - meta
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search:
+      lang: en
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/HenryPhamDuc
+  generator: false
+
+nav:
+  - Home: index.md
+  - Taichi NOW Podcast: https://rss.com/podcasts/the-power-of-now/
+  - Contact: mailto:henry.phamduc@gmail.com

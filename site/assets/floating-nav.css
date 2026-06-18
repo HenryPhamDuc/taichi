@@ -1,0 +1,49 @@
+:root {
+  --taichi-primary: #00897b;
+  --taichi-accent: #00695c;
+}
+
+/* Floating navigation bar: bottom-right, appears on scroll */
+.md-floating-nav {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 1000;
+  display: flex;
+  gap: 0.5rem;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+  pointer-events: none;
+}
+
+.md-floating-nav.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.md-floating-nav a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background: var(--taichi-primary);
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  text-decoration: none;
+  font-size: 1.25rem;
+  transition: background 0.2s ease;
+}
+
+.md-floating-nav a:hover {
+  background: var(--taichi-accent);
+}
+
+@media print {
+  .md-floating-nav {
+    display: none !important;
+  }
+}
