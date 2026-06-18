@@ -1,0 +1,13 @@
+# Python virtualenv
+.venv/
+venv/
+ENV/
+
+# MkDocs build output
+site/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
