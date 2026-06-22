@@ -2,8 +2,6 @@
 
 ### *A Curated, Bilingual (EN-VI) Resource for the 50+ Body — Soft Inside, Rooted Outside*
 
-**🌐 Live site:** https://henryphamduc.github.io/taichi/
-
 ---
 
 ## How to Use This Vault | Cách Dùng Kho Này

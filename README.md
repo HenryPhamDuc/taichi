@@ -2,8 +2,6 @@
 
 A separate bilingual (EN-VI) Taichi/Qigong resource site for the 50+ body.
 
-**🌐 Live site:** https://henryphamduc.github.io/taichi/
-
 ## How to build locally
 
 ```bash
@@ -15,7 +13,7 @@ mkdocs build     # static files in ./site/
 
 ## Deployment
 
-Pushing to the `master` branch of `HenryPhamDuc/taichi` triggers the GitHub Actions workflow in `.github/workflows/deploy.yml`, which builds and deploys to the `gh-pages` branch. GitHub Pages then serves it at `https://henryphamduc.github.io/taichi/`.
+Pushing to the `master` branch triggers the GitHub Actions workflow in `.github/workflows/deploy.yml`, which builds and deploys to the `gh-pages` branch. GitHub Pages then serves the site to readers.
 
 ## Structure
 

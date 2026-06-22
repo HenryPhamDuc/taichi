@@ -2,9 +2,6 @@ site_name: 🧘 Henry's Taichi Practice Vault
 site_description: A curated, bilingual (EN-VI) Taichi and Qigong resource library for the 50+ body — soft inside, rooted outside.
 site_author: Henry Pham Duc
 site_url: https://henryphamduc.github.io/taichi/
-repo_url: https://github.com/HenryPhamDuc/taichi
-repo_name: HenryPhamDuc/taichi
-edit_uri: edit/master/docs/
 
 docs_dir: docs
 site_dir: site
@@ -80,8 +77,6 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/HenryPhamDuc
   generator: false
 
 nav:
