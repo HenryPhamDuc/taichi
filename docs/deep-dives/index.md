@@ -47,7 +47,7 @@ This is your **full Deep Dives library** — the same modern 15-PART format as t
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |-------------|----------------|
-| **Taichi NOW Podcast** — your space for guided practice, daily cues, and Taichi conversations.<br><a href="https://taichinow-8e3yvqqu.manus.space/" target="_blank" rel="noopener noreferrer">https://taichinow-8e3yvqqu.manus.space/</a> | **Taichi NOW Podcast** — không gian của bạn để tập có hướng dẫn, câu nhắc hằng ngày, và đối thoại Thái Cực.<br><a href="https://taichinow-8e3yvqqu.manus.space/" target="_blank" rel="noopener noreferrer">https://taichinow-8e3yvqqu.manus.space/</a> |
+| **The Harvard Medical School Guide to Tai Chi** — a separate companion site that summarizes Dr. Peter Wayne's evidence-based book (8 Active Ingredients, cardiovascular benefits, mental clarity, breath & balance). Use it as a research companion to this Deep Dives guide.<br><a href="https://taichinow-8e3yvqqu.manus.space/" target="_blank" rel="noopener noreferrer">https://taichinow-8e3yvqqu.manus.space/</a> | **The Harvard Medical School Guide to Tai Chi** — một trang web đi kèm tóm tắt cuốn sách dựa trên bằng chứng khoa học của Tiến sĩ Peter Wayne (8 Thành Phần Hoạt Động, lợi ích tim mạch, sáng suốt tinh thần, hơi thở & thăng bằng). Dùng làm bạn đồng hành nghiên cứu cho cẩm nang Deep Dives này.<br><a href="https://taichinow-8e3yvqqu.manus.space/" target="_blank" rel="noopener noreferrer">https://taichinow-8e3yvqqu.manus.space/</a> |
 
 ---
 

@@ -1,5 +1,5 @@
 !!! info "Quick Navigation / Điều Hướng Nhanh"
-    [← Back to Deep Dives Index](../index.md) | [Master Cue Card ↓](#appendix-b-master-cue-card-phu-luc-b-the-cau-nhac-tong) | [30-Day Calendar ↓](#appendix-c-30-day-practice-calendar-phu-luc-c-lich-tap-30-ngay) | [Taichi NOW Podcast ↗](https://taichinow-8e3yvqqu.manus.space/){target="_blank" rel="noopener noreferrer"}
+    [← Back to Deep Dives Index](../index.md) | [Master Cue Card ↓](#appendix-b-master-cue-card-phu-luc-b-the-cau-nhac-tong) | [30-Day Calendar ↓](#appendix-c-30-day-practice-calendar-phu-luc-c-lich-tap-30-ngay) | [Harvard Guide ↗](https://taichinow-8e3yvqqu.manus.space/){target="_blank" rel="noopener noreferrer"}
 
 # The Complete Taichi Practice Guide for the 3.0 Beginner | Cẩm Nang Tập Thái Cực Quyền Toàn Tập Cho Người Mới Bắt Đầu
 
