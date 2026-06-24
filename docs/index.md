@@ -95,12 +95,15 @@
 
 ## 7. Your Local Deep Dives / Deep Dive Của Bạn
 
-| File | Local Path |
-| --- | --- |
-| Complete Taichi Practice Guide for the 3.0 Beginner | `C:\Users\Henry\Documents\Taichi-Health-Finance\Deep Dives\Complete Taichi Practice Guide for the 3.0 Beginner\` |
-| THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN III VÀ TIẾP THEO | `C:\Users\Henry\Documents\Taichi-Health-Finance\` |
-| Taichi NOW podcast channel | `C:\Users\Henry\Documents\Taichi-Health-Finance\Taichi NOW podcast channel.md` |
-| TaiChi_ToanThu_SucKhoe.docx | `C:\Users\Henry\Documents\Taichi-Health-Finance\TaiChi_ToanThu_SucKhoe.docx` |
+> The full **Complete Taichi Practice Guide for the 3.0 Beginner** is now live on this site: **[🧘 Read it here → /deep-dives/complete-practice-guide/](deep-dives/complete-practice-guide/index.md)**. 15 PARTS, 32 chapters, 64 printable cards, 3 appendices. Synthesized from your Vietnamese Phần III book, the Taichi NOW podcast, and the 8 Gates parallel notes.
+
+| File | Local Path | Live Link |
+| --- | --- | --- |
+| **Complete Taichi Practice Guide for the 3.0 Beginner** | `C:\Users\Henry\Documents\Taichi-Health-Finance\Deep Dives\Complete Taichi Practice Guide for the 3.0 Beginner\` | <a href="deep-dives/complete-practice-guide/" target="_blank" rel="noopener noreferrer">/deep-dives/complete-practice-guide/</a> |
+| **Deep Dives Index** | — | <a href="deep-dives/" target="_blank" rel="noopener noreferrer">/deep-dives/</a> |
+| THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN III VÀ TIẾP THEO | `C:\Users\Henry\Documents\Taichi-Health-Finance\` | — |
+| Taichi NOW podcast channel | `C:\Users\Henry\Documents\Taichi-Health-Finance\Taichi NOW podcast channel.md` | <a href="https://taichinow-8e3yvqqu.manus.space/" target="_blank" rel="noopener noreferrer">https://taichinow-8e3yvqqu.manus.space/</a> |
+| TaiChi_ToanThu_SucKhoe.docx | `C:\Users\Henry\Documents\Taichi-Health-Finance\TaiChi_ToanThu_SucKhoe.docx` | — |
 
 ---
 
@@ -148,6 +151,6 @@
 
 ---
 
-> **Maintenance note:** Last curated 2026-06-18. YouTube links may decay; search the exact title if a video is missing.
+> **Maintenance note:** Last curated 2026-06-24. Added Complete Taichi Practice Guide for the 3.0 Beginner (15-PART Deep Dives). YouTube links may decay; search the exact title if a video is missing.
 
-> **Ghi chú bảo trì:** Cập nhật lần cuối 18/06/2026. Link YouTube có thể hỏng; tìm đúng tiêu đề nếu video biến mất.
+> **Ghi chú bảo trì:** Cập nhật lần cuối 24/06/2026. Đã thêm Cẩm Nang Tập Thái Cực Quyền Toàn Tập Cho Người Mới (Deep Dives 15-PHẦN). Link YouTube có thể hỏng; tìm đúng tiêu đề nếu video biến mất.

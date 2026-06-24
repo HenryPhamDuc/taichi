@@ -81,5 +81,6 @@ extra:
 
 nav:
   - Home: index.md
-  - Taichi NOW Podcast: https://rss.com/podcasts/the-power-of-now/
+  - Deep Dives: deep-dives/index.md
+  - Taichi NOW Podcast: https://taichinow-8e3yvqqu.manus.space/
   - Contact: mailto:henry.phamduc@gmail.com
