@@ -1,22 +1,21 @@
 !!! info "Quick Navigation / Điều Hướng Nhanh"
     [← Back to Deep Dives Index](../index.md) | [Master Cue Card ↓](#appendix-b-master-cue-card-phu-luc-b-the-cau-nhac-tong) | [30-Day Calendar ↓](#appendix-c-30-day-practice-calendar-phu-luc-c-lich-tap-30-ngay) | [Harvard Guide ↗](https://taichinow-8e3yvqqu.manus.space/){target="_blank" rel="noopener noreferrer"}
 
-# The Complete Taichi Practice Guide for the 3.0 Beginner | Cẩm Nang Tập Thái Cực Quyền Toàn Tập Cho Người Mới Bắt Đầu
+# Cẩm Nang Tập Thái Cực Quyền Cho Người Mới Bắt Đầu | The Complete Taichi Practice Guide for the Beginner
 
-*From the 24-Form to Daily Longevity — Your Friendly Master Coach Guide*
-
-*Từ Thái Cực 24 Thức đến Sống Khỏe Mỗi Ngày — Cẩm Nang Từ Bậc Thầy Của Bạn*
+*Từ Thái Cực 24 Thức đến sống khỏe mỗi ngày — một hướng dẫn thực hành*
+*From the 24-Form to daily longevity — a practice guide*
 
 ---
 
-## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
+## 📋 BẢN ĐỒ TÀI LIỆU / DOCUMENT MAP
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |-------------|----------------|
-| **Who this is for**: A 3.0-level Taichi beginner. Maybe 50+ years old, maybe brand new to internal martial arts, maybe a tennis player who wants cross-training. Someone who wants to learn the *real* Thái Cực Quyền (Tai Chi Chuan) — not the slow-motion wave-hands you see at the park, but the complete system: 8 Gates (Bát Môn), 24-Form (Nhị Thập Tứ Thức), Zhan Zhuang (Trụ Thế), and the philosophy underneath. | **Dành cho ai**: Người mới bắt đầu Thái Cực Quyền ở trình độ 3.0. Có thể 50+ tuổi, có thể mới làm quen với võ thuật nội gia, có thể là người chơi tennis muốn tập chéo. Người muốn học Thái Cực Quyền *thực sự* — không phải vẫy tay chậm ngoài công viên, mà là cả hệ thống: Bát Môn, Nhị Thập Tứ Thức, Trụ Thế, và triết lý bên dưới. |
-| **What this guide does**: Walks you from zero to a daily 20-minute practice that touches every principle in the system. Every concept is paired with (1) a master-coach cue, (2) a drill you can do right now, and (3) a printable card you can carry. | **Cẩm nang này làm gì**: Dẫn bạn từ số 0 đến buổi tập 20 phút mỗi ngày chạm đến mọi nguyên lý trong hệ thống. Mỗi khái niệm đi kèm (1) câu nhắc từ bậc thầy, (2) bài tập bạn có thể làm ngay bây giờ, và (3) thẻ in được bạn có thể mang theo. |
-| **How it's organized**: 15 PARTS — philosophy, foundation, 8 Gates, 24-Form, body mechanics, breathing, relaxation, mind, Zhan Zhuang, slow form, health, daily practice, master cheat sheet, common pitfalls, and final words. Plus 3 appendices: a 5-Element Tagging System, a Master Cue Card, and a 30-Day Practice Calendar. | **Cấu trúc thế nào**: 15 PHẦN — triết lý, nền tảng, Bát Môn, 24 Thức, cơ học cơ thể, hơi thở, thả lỏng, tâm trí, Trụ Thế, hình thức chậm, sức khỏe, thực hành hằng ngày, bảng tóm tắt, lỗi thường gặp, và lời cuối. Cộng 3 phụ lục: Hệ thống gắn nhãn 5 Ngũ Hành, Thẻ Câu Nhắc Tổng, và Lịch Tập 30 Ngày. |
-| **The voice**: Master coach talking to student. Honest about difficulty (3.0 is the *start* of the journey, not the top), warm about age (50+ is a perfect time to start), direct about the practice (slow is fast). | **Giọng nói**: Bậc thầy đang nói chuyện với học trò. Thành thật về độ khó (3.0 là *khởi đầu* của hành trình, không phải đỉnh), ấm áp về tuổi tác (50+ là thời điểm hoàn hảo để bắt đầu), trực tiếp về thực hành (chậm là nhanh). |
+| **Dành cho ai** — Người mới tập Thái Cực Quyền. Có thể 50+, có thể mới làm quen với võ thuật nội gia, có thể là người chơi tennis muốn tập chéo. Người muốn học Thái Cực Quyền cho thật — không phải vẫy tay chậm ngoài công viên, mà là cả một hệ thống: Bát Môn, 24 Thức, Trụ Thế, và triết lý đi kèm. | **Who this is for** — A Taichi beginner. Maybe 50+ years old, maybe new to internal martial arts, maybe a tennis player looking for cross-training. Someone who wants to learn Taichi for real — not the slow-motion wave-hands you see in the park, but the whole system: Bát Môn, 24-Form, Trụ Thế, and the philosophy underneath. |
+| **Cẩm nang này làm gì** — Dẫn bạn từ số 0 đến buổi tập 20 phút mỗi ngày chạm đến các nguyên lý chính. Mỗi khái niệm đi kèm (1) một câu nhắc, (2) một bài tập bạn có thể làm ngay, và (3) một thẻ in được bạn có thể mang theo. | **What this guide does** — Walks you from zero to a daily 20-minute practice that touches the core principles. Each concept pairs with (1) a one-line cue, (2) a drill you can do right now, and (3) a printable card you can carry. |
+| **Cấu trúc** — 15 phần: triết lý, nền tảng, Bát Môn, 24 Thức, cơ học cơ thể, hơi thở, thư giãn, tâm trí, Trụ Thế, hình thức chậm, sức khỏe, thực hành hằng ngày, bảng tóm tắt, lỗi thường gặp, lời cuối. Cộng 3 phụ lục: Hệ thống gắn nhãn 5 Ngũ Hành, Thẻ Câu Nhắc Tổng, Lịch Tập 30 Ngày. | **How it's organized** — 15 parts: philosophy, foundation, Bát Môn, 24-Form, body mechanics, breathing, relaxation, mind, Trụ Thế, slow form, health, daily practice, summary, common pitfalls, final words. Plus 3 appendices: a 5-Element Tagging System, a Master Cue Card, and a 30-Day Practice Calendar. |
+| **Ghi chú thẳng thắn** — Trình độ 3.0 là *khởi đầu* của hành trình, không phải đỉnh. 50+ là thời điểm hoàn hảo để bắt đầu. Chậm mới là nhanh. | **Honest notes** — 3.0 is the *start* of the journey, not the top. 50+ is a perfect time to begin. Slow is fast. |
 
 ---
 
@@ -3590,10 +3589,15 @@ The 30-Day Practice Calendar maps weeks 1-2, 3-4, 5-6, 7-8, 9-10, 11-12, 13-14, 
 
 * * *
 
-## 🏁 END OF MANUAL / HẾT CẨM NANG
+## 🏁 HẾT CẨM NANG / END OF MANUAL
 
-**Total concepts integrated from your materials**: 250+ covering philosophy (Tam Bảo, Âm Dương, Hư Thực), foundation (body schema, alignment, 4 stances, 5 adjustments), 8 Gates (Peng, Lu, Ji, An), 24-Form (Khởi Thức, Dã Mã, Bạch Hạc, Ôm Chim Sẻ), breathing (Dantian, 4-7-8), relaxation (Sōng vs Sūi, 9 points), mind (Mushin, Ý), Zhan Zhuang (Ôm Thụ), and 50+ health (7 declines, Triad, sleep, BP, balance), plus 32 master cues, 32 printable cards, and a 30-day calendar.
+**Tổng kết nội dung**: 250+ khái niệm từ triết lý (Tam Bảo, Âm Dương, Hư Thực), nền tảng (sơ đồ cơ thể, trục, 4 tư thế, 5 điều chỉnh), Bát Môn (Phòng, Lãy, Tỳ, Án), 24 Thức (Khởi Thức, Dã Mã, Bạch Hạc, Ôm Chim Sẻ), hơi thở (Đan Điền, 4-7-8), thư giãn (Sōng vs Sụp, 9 điểm), tâm trí (Vô Tâm, Ý), Trụ Thế (Ôm Thụ), sức khỏe 50+ (7 suy giảm, Bộ Ba, ngủ, HA, thăng bằng). Cộng 32 câu nhắc tổng, 32 thẻ in được, và lịch tập 30 ngày.
 
-**Tổng khái niệm tích hợp từ tài liệu của bạn**: 250+ bao gồm triết lý (Tam Bảo, Âm Dương, Hư Thực), nền tảng (sơ đồ cơ thể, trục, 4 tư thế, 5 điều chỉnh), Bát Môn (Phòng, Lãy, Tỳ, Án), 24 Thức (Khởi Thức, Dã Mã, Bạch Hạc, Ôm Chim Sẻ), hơi thở (Đan Điền, 4-7-8), thư giãn (Sōng vs Sụp, 9 điểm), tâm trí (Vô Tâm, Ý), Trụ Thế (Ôm Thụ), và sức khỏe 50+ (7 suy giảm, Bộ Ba, ngủ, HA, thăng bằng), cộng 32 câu nhắc tổng, 32 thẻ in được, và lịch 30 ngày.
+**Summary of content**: 250+ concepts covering philosophy (Tam Bảo, Âm Dương, Hư Thực), foundation (body schema, alignment, 4 stances, 5 adjustments), Bát Môn (Phòng, Lãy, Tỳ, Án), 24-Form (Khởi Thức, Dã Mã, Bạch Hạc, Ôm Chim Sẻ), breathing (Đan Điền, 4-7-8), relaxation (Sōng vs Sụp, 9 points), mind (Vô Tâm, Ý), Trụ Thế (Ôm Thụ), 50+ health (7 declines, Bộ Ba, sleep, BP, balance). Plus 32 master cues, 32 printable cards, and a 30-day calendar.
 
-*See you on the mat. / Hẹn gặp trên thảm.*
+---
+
+Hy vọng cẩm nang này giúp bạn hoàn thiện từng bước tập của mình và tận hưởng môn Thái Cực Quyền nhiều hơn nữa. Xin chân thành cám ơn các bạn đã quan tâm và cùng đồng hành trên con đường tập Thái Cực Quyền. Chúc các bạn tập vui, tập khỏe, và đạt nhiều tiến bộ.
+
+*Hope this guide helps you progress and enjoy the practice. Thanks for reading, and best wishes on your Taichi journey.*
+

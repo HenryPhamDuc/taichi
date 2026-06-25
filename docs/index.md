@@ -104,11 +104,13 @@
 
 ## 7. Your Local Deep Dives / Deep Dive Của Bạn
 
-> The full **Complete Taichi Practice Guide for the 3.0 Beginner** is now live on this site: **[🧘 Read it here → /deep-dives/complete-practice-guide/](deep-dives/complete-practice-guide/index.md)**. 15 PARTS, 32 chapters, 64 printable cards, 3 appendices. Synthesized from your Vietnamese Phần III book, the Taichi NOW podcast, and the 8 Gates parallel notes.
+> Cẩm nang tập Thái Cực Quyền đầy đủ đã có trên trang này: **[🧘 Đọc ở đây → /deep-dives/complete-practice-guide/](deep-dives/complete-practice-guide/index.md)**. 15 phần, 32 chương, 32 thẻ in được, 3 phụ lục. Gồm triết lý, nền tảng, Bát Môn, 24 Thức, cơ học cơ thể, hơi thở, thư giãn, tâm trí, Trụ Thế, và sức khỏe 50+.
+
+> The full Taichi Practice Guide is now live on this site: **[🧘 Read it here → /deep-dives/complete-practice-guide/](deep-dives/complete-practice-guide/index.md)**. 15 parts, 32 chapters, 32 printable cards, 3 appendices. Covers philosophy, foundation, Bát Môn, 24-Form, body mechanics, breathing, relaxation, mind, Trụ Thế, and 50+ health.
 
 | File | Local Path | Live Link |
 | --- | --- | --- |
-| **Complete Taichi Practice Guide for the 3.0 Beginner** | `C:\Users\Henry\Documents\Taichi-Health-Finance\Deep Dives\Complete Taichi Practice Guide for the 3.0 Beginner\` | <a href="deep-dives/complete-practice-guide/" target="_blank" rel="noopener noreferrer">/deep-dives/complete-practice-guide/</a> |
+| **Cẩm nang tập Thái Cực Quyền cho người mới bắt đầu** | `C:\Users\Henry\Documents\Taichi-Health-Finance\Deep Dives\Complete Taichi Practice Guide for the 3.0 Beginner\` | <a href="deep-dives/complete-practice-guide/" target="_blank" rel="noopener noreferrer">/deep-dives/complete-practice-guide/</a> |
 | **Deep Dives Index** | — | <a href="deep-dives/" target="_blank" rel="noopener noreferrer">/deep-dives/</a> |
 | THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN III VÀ TIẾP THEO | `C:\Users\Henry\Documents\Taichi-Health-Finance\` | — |
 | Taichi NOW podcast channel (audio) | `C:\Users\Henry\Documents\Taichi-Health-Finance\Taichi NOW podcast channel.md` | <a href="https://rss.com/podcasts/the-power-of-now/" target="_blank" rel="noopener noreferrer">https://rss.com/podcasts/the-power-of-now/</a> |
@@ -161,6 +163,6 @@
 
 ---
 
-> **Maintenance note:** Last curated 2026-06-24. Added Complete Taichi Practice Guide for the 3.0 Beginner (15-PART Deep Dives). Added 'Harvard Guide' nav tab for the companion site at https://taichinow-8e3yvqqu.manus.space/. YouTube links may decay; search the exact title if a video is missing.
+> Xin chân thành cám ơn các bạn đã quan tâm và cùng đồng hành. Chúc các bạn tập vui, tập khỏe, và đạt nhiều tiến bộ trên con đường tập Thái Cực Quyền.
 
-> **Ghi chú bảo trì:** Cập nhật lần cuối 24/06/2026. Đã thêm Cẩm Nang Tập Thái Cực Quyền Toàn Tập Cho Người Mới (Deep Dives 15-PHẦN). Đã thêm tab 'Harvard Guide' cho trang web đi kèm tại https://taichinow-8e3yvqqu.manus.space/. Link YouTube có thể hỏng; tìm đúng tiêu đề nếu video biến mất.
+> Thanks for visiting. Best wishes on your Taichi journey.
