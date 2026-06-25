@@ -43,6 +43,8 @@ theme:
 extra_css:
   - assets/floating-nav.css
   - assets/sidebar-nav.css
+  - assets/expand-sidebar.css
+  - assets/responsive-tables.css
 
 extra_javascript:
   - assets/open-external-links.js
