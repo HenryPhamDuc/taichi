@@ -5,7 +5,7 @@
 
 This is your **full Deep Dives library** — the same modern 15-PART format as the tennis book, with master-coach voice, EN-VI side-by-side tables, one printable card per chapter, and three deep appendices. The complete guide is rendered as a single long-form page below.
 
-*Đây là thư viện Deep Dives đầy đủ — cùng định dạng 15-PHẦN hiện đại với sách tennis, giọng bậc thầy, bảng EN-VI hai cột, một thẻ in được mỗi chương, và ba phụ lục sâu. Cẩm nang hoàn chỉnh được hiển thị thành một trang dài bên dưới.*
+> *Đây là thư viện Deep Dives đầy đủ — mỗi bài viết đi kèm bảng EN-VI hai cột, một thẻ in được mỗi chương, và ba phụ lục sâu.*
 
 ---
 
