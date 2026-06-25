@@ -1,17 +1,20 @@
 ---
 title: "Một chủ đề sức khỏe rất phổ biến hiện nay là \"Đau mỏi vai gáy\", được viết hoàn toàn theo phong cách của triết lý Thái Cực:"
 date: 2026-05-27T16:52:21
-date_display: "May 27, 2026 4:52:21 pm"
+date_display: "May 27, 2026 04:52:21 PM"
+date_vi: "Thứ Tư 27/05/2026 16:52"
 images: 0
 videos: 1
-tags: [facebook, taichi, hanoi-talks]
+external_links: 0
+tags: [facebook, taichi, hanoi-talks, video]
 vault: taichi-facebook
 created: 2026-06-25
+source: facebook-archive-json
 ---
 
 # Một chủ đề sức khỏe rất phổ biến hiện nay là "Đau mỏi vai gáy", được viết hoàn toàn theo phong cách của triết lý Thái Cực:
 
-> 📅 *May 27, 2026 4:52:21 pm* · 📸 0 ảnh · 🎬 1 video
+> 📅 *Thứ Tư 27/05/2026 16:52* · 🎬 1 video
 
 [← Quay lại danh sách bài viết](../index.md)
 
@@ -110,4 +113,4 @@ Treo đầu lên
 
 Phạm Đức Hải | Thái Cực Quyền
 
----Một chủ đề sức khỏe rất phổ biến hiện nay là "Đau mỏi vai gáy", được viết hoàn toàn theo phong cách của triết lý Thái Cực:VAI GÁY CĂNG CỨNGLÀ CỬA NGÕ BỊ ĐÓNGNhiều người mỏi vaithường đi xoa bópuống thuốc giảm đauhoặc dán caoNhưng trong Nội Kinhđau không phải là bệnhđau là tiếng kêucủa sự tắc nghẽnVAI GÁY LÀ CỬA NGÕ CỦA THẦNVùng cổ vai gáylà đoạn hẹp nhấtnối Thân và ĐầuKhí huyết lên nãođều phải qua đâyNếu cửa này bị đóngđầu sẽ nặngmắt sẽ mờtâm sẽ loạnThần không có chỗ nươngGỒNG LÀ GỐC CỦA TẮCNgười hiện đạiluôn sống trong trạng thái "Gồng"gồng để làm việcgồng để tập trunggồng để chịu áp lựcKhi gồngcơ bắp co rútép chặt hệ trụclàm khí không thônghuyết không hànhTRỤC LỆCH KHÍ TRỆNhìn vào màn hìnhcổ vươn về trướclàm gãy trục thẳngKhí bị kẹt lạiứ đọng ở vaitạo thành những khối cứngĐó không phải là cơđó là "khí uất"tích tụ lâu ngàyTHÁI CỰC LÀ SỰ THẢ LỎNGTrong Thái Cực Quyền Luận"Trầm kiên trụy khuỷu"Hạ vai, buông lỏngKhông phải buông xuôimà là thả lỏngtrong một cấu trúc thẳngKhi vai hạ xuốngcửa ngõ mới mởkhí mới thông dòngĐỪNG CHỈ CHỮA VÀO CHỖ ĐAUXoa bóp vùng vaichỉ là phần ngọnCần phảitreo lại đỉnh đầuchỉnh lại hệ trụcthở sâu xuống bụngKhi gốc đã vữngthân tự lỏng ravai tự nhẹ nhàngCHO NÊNKhông phải vai bạn đaumà là bạn đang "gồng" quá mức.Dưỡng sinh không phải là thêmmà là bớt đi sự căng cứng.Hạ vai xuốngTreo đầu lênĐể sinh mệnh được vận hành tự nhiên.Phạm Đức Hải | Thái Cực Quyền---
+---

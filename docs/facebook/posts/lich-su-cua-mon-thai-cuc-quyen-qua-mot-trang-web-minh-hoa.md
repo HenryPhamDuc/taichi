@@ -1,17 +1,20 @@
 ---
 title: "Lịch sử của môn Thái Cực Quyền qua một trang web minh họa."
 date: 2026-05-27T07:11:03
-date_display: "May 27, 2026 7:11:03 am"
+date_display: "May 27, 2026 07:11:03 AM"
+date_vi: "Thứ Tư 27/05/2026 07:11"
 images: 1
 videos: 0
-tags: [facebook, taichi, hanoi-talks]
+external_links: 0
+tags: [facebook, taichi, hanoi-talks, photo]
 vault: taichi-facebook
 created: 2026-06-25
+source: facebook-archive-json
 ---
 
 # Lịch sử của môn Thái Cực Quyền qua một trang web minh họa.
 
-> 📅 *May 27, 2026 7:11:03 am* · 📸 1 ảnh · 🎬 0 video
+> 📅 *Thứ Tư 27/05/2026 07:11* · 📸 1 ảnh
 
 [← Quay lại danh sách bài viết](../index.md)
 
@@ -27,4 +30,4 @@ Phát hiện khảo cổ mới năm 2023 tại Hà Nam, Trung Quốc đã làm t
 
 TRIẾT LÝ "VÔ CỰC NHI THÁI CỰC" ỨNG DỤNG TRONG 
 
-Thái Cực Quyền không chỉ là võ thuật cổ truyền, mà là  một hệ điều hành cho sự phát triển toàn diện của con người trong thế kỷ 21, kết nối cổ xưa với tương lai, Đông phương với Tây phương, con người với công nghệ.Lịch sử của môn Thái Cực Quyền qua một trang web minh họa.https://thaicuhist-ftqj3xhc.manus.space/LỊCH SỬ VÀ TRIẾT LÝ THÁI CỰC QUYỀNPhát hiện khảo cổ mới năm 2023 tại Hà Nam, Trung Quốc đã làm thay đổi hoàn toàn hiểu biết về nguồn gốc Thái Cực Quyền. Các bản chữ tượng hình trên phiến đá cổ 2200 năm tuổi mô tả các động tác tương tự Thái Cực Quyền hiện đại, chứng minh môn võ này có thể xuất hiện sớm hơn 200 năm so với ghi chép lịch sử.TRIẾT LÝ "VÔ CỰC NHI THÁI CỰC" ỨNG DỤNG TRONGThái Cực Quyền không chỉ là võ thuật cổ truyền, mà là  một hệ điều hành cho sự phát triển toàn diện của con người trong thế kỷ 21, kết nối cổ xưa với tương lai, Đông phương với Tây phương, con người với công nghệ.
+Thái Cực Quyền không chỉ là võ thuật cổ truyền, mà là  một hệ điều hành cho sự phát triển toàn diện của con người trong thế kỷ 21, kết nối cổ xưa với tương lai, Đông phương với Tây phương, con người với công nghệ.
