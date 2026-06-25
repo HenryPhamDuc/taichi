@@ -4,6 +4,15 @@
 
 ---
 
+## 🌿 Sister Sites / Trang Liên Quan
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+| --- | --- |
+| **[Taichi Wiki (EN)](https://henryphamduc.github.io/taichi-wiki-en/)** — Deep, bilingual wiki: 148 articles on foundations, history, Ten Essentials, technique, forms, training, health, and tennis applications. | **[Taichi Wiki (VI)](https://henryphamduc.github.io/taichi-wiki/)** — Wiki sâu, song ngữ: 148 bài viết về nền tảng, lịch sử, Thập Yếu, kỹ thuật, quyền thức, luyện tập, sức khỏe, và ứng dụng tennis. |
+| For long-form deep dives on every concept. Browse the graph view, search across 148 articles, follow internal links between related topics. | Cho các bài viết chuyên sâu về mọi khái niệm. Duyệt bằng đồ thị, tìm kiếm trong 148 bài, theo liên kết nội bộ giữa các chủ đề. |
+
+---
+
 ## How to Use This Vault | Cách Dùng Kho Này
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
