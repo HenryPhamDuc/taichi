@@ -1,0 +1,78 @@
+/*
+ * tabs-scrollable.css
+ *
+ * Override MkDocs Material theme's default behavior of truncating nav tabs
+ * when they don't fit the viewport. Instead, allow horizontal scrolling
+ * so all tabs (including the rightmost ones like 📘 Facebook) stay
+ * accessible at any screen width.
+ *
+ * Strategy:
+ * - Wrap the tabs list in a horizontally scrollable container
+ * - Hide the scrollbar (so it doesn't add visual clutter) but keep it
+ *   functional (mobile/trackpad users can scroll)
+ * - Add subtle fade edges to hint at overflow
+ * - Reduce padding to fit more tabs on narrow screens
+ */
+
+.md-tabs {
+  /* Allow the tabs container to scroll horizontally */
+  overflow-x: auto;
+  overflow-y: hidden;
+  /* Hide scrollbar visually but keep scrollability */
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
+}
+
+.md-tabs::-webkit-scrollbar {
+  height: 4px;
+}
+
+.md-tabs::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.md-tabs::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 2px;
+}
+
+.md-tabs::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+/* Make sure the inner UL doesn't shrink — keeps all tabs on one line */
+.md-tabs__list {
+  flex-wrap: nowrap !important;
+  min-width: max-content;
+}
+
+/* Reduce tab padding to fit more on narrow screens */
+.md-tabs__link {
+  padding-left: 0.65rem;
+  padding-right: 0.65rem;
+  white-space: nowrap;
+}
+
+/* Right-edge fade hint that more content is available */
+.md-tabs {
+  mask-image: linear-gradient(
+    to right,
+    black 0,
+    black calc(100% - 24px),
+    transparent 100%
+  );
+  -webkit-mask-image: linear-gradient(
+    to right,
+    black 0,
+    black calc(100% - 24px),
+    transparent 100%
+  );
+}
+
+/* Disable the fade on wide screens where everything fits */
+@media (min-width: 80em) {
+  .md-tabs {
+    mask-image: none;
+    -webkit-mask-image: none;
+  }
+}

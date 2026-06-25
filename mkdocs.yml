@@ -45,6 +45,7 @@ extra_css:
   - assets/sidebar-nav.css
   - assets/expand-sidebar.css
   - assets/responsive-tables.css
+  - assets/tabs-scrollable.css
 
 extra_javascript:
   - assets/open-external-links.js
