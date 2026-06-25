@@ -11,10 +11,11 @@ theme:
   language: en
   features:
     - navigation.tabs
-    - navigation.sections
-    - navigation.indexes
-    - navigation.top
-    - navigation.tracking
+        - navigation.tabs.sticky
+        - navigation.sections
+        - navigation.indexes
+        - navigation.top
+        - navigation.tracking
     - search.suggest
     - search.highlight
     - search.share
@@ -45,7 +46,6 @@ extra_css:
   - assets/sidebar-nav.css
   - assets/expand-sidebar.css
   - assets/responsive-tables.css
-  - assets/tabs-scrollable.css
 
 extra_javascript:
   - assets/open-external-links.js
@@ -85,9 +85,9 @@ extra:
 nav:
   - Home: index.md
   - Deep Dives: deep-dives/index.md
-  - 🌿 Taichi Wiki (VI): https://henryphamduc.github.io/taichi-wiki/
-  - 🌿 Taichi Wiki (EN): https://henryphamduc.github.io/taichi-wiki-en/
-  - Taichi NOW Podcast: https://rss.com/podcasts/the-power-of-now/
-  - 📘 Facebook (71 posts): facebook/index.md
-  - Harvard Guide: https://taichinow-8e3yvqqu.manus.space/
+  - 🌿 Wiki (VI): https://henryphamduc.github.io/taichi-wiki/
+  - 🌿 Wiki (EN): https://henryphamduc.github.io/taichi-wiki-en/
+  - Podcast: https://rss.com/podcasts/the-power-of-now/
+  - Facebook: facebook/index.md
+  - Harvard: https://taichinow-8e3yvqqu.manus.space/
   - Contact: mailto:henry.phamduc@gmail.com
